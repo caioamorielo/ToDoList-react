@@ -37,7 +37,7 @@ function App() {
 
   return (
     <Container>
-      <Title>To Do List</Title>
+      <Title>JUST DO LIST.</Title>
       <ToDoList>
         <Input onChange={inputMudou} placeholder="O que tenho para fazer..." />
         <Button onClick={ButtonClicked}>Adicionar</Button>

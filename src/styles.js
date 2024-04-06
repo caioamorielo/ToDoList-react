@@ -12,11 +12,20 @@ justify-content: center;
 align-items: center;
 `
 export const Title = styled.h3`
-font-size: 80px;
-background-color: #b81515;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 60px;
+background-image: linear-gradient(
+    to right,
+    #1B1B1B,
+    #b90504,
+    #990100,
+    #0F0F0F
+  );
 color: aliceblue;
-  padding: 7px;
-  width: 1px;
+  padding: 1px;
+  width: 15%;
   font-family: Verdana, Tahoma, sans-serif;
   animation: h3bounce 4s infinite;
   cursor: pointer;
