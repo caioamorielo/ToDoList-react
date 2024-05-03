@@ -4,4 +4,4 @@ O código utiliza a biblioteca uuid para gerar identificadores únicos para cada
 
 Desenvolvido com <img width="60px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="ReactJS-logo" />  <img width="120px" src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components-logo"/> <img width="80px" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
 
-<p>▶️✍️<b>Crie suas tarefas<b/>: <a href="https://todoknlist.netlify.app/">To Do List</a></p>
+<p>▶️✍️<b>Crie suas tarefas<b/>: <a href="https://justdolist.netlify.app/">To Do List</a></p>
